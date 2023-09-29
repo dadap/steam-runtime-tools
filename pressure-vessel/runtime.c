@@ -4053,6 +4053,7 @@ collect_graphics_libraries_patterns (GPtrArray *patterns)
     "libnvidia-glcore.so.*",
     "libnvidia-glsi.so.*",
     "libnvidia-glvkspirv.so.*",
+    "libnvidia-gpucomp.so.*",
     "libnvidia-ifr.so.*",
     "libnvidia-ml.so.*",
     "libnvidia-opencl.so.*",
